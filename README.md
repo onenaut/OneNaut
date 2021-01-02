@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there, 👋
 
 <!--
-**onenaut/OneNaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  ...
 -->
+## **OneNaut** is a ✨ _special_ ✨ github profile.
+⚡ Fun fact:I created **OneNaut Multi-talented Discord Bot**.
+
+# Discord Bot Made in India.
+
+[Support Server](https://discord.gg/FDA7afBd6w)

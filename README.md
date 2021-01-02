@@ -19,4 +19,10 @@ Here are some ideas to get you started:
 
 # Discord Bot Made in India.
 
+## OneNaut Discord bot is written NodeJs only with using any 3rd party NPM packages.
+Its code is 70% less than other bots and mainly reused codes which makes it stable, faster and reliable
+Join support server and Tag Bot to begin.
+
 [Support Server](https://discord.gg/FDA7afBd6w)
+
+#Have a Nice Day

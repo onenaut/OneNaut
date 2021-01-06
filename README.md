@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -  ...
 -->
 
-![Bot](https://raw.githubusercontent.com/onenaut/OneNaut/main/IMG_20210103_115726.jpg)
+![Bot](https://raw.githubusercontent.com/onenaut/OneNaut/main/1.png)
 ## **OneNaut** is a ✨ _special_ ✨ github profile.
 ⚡ Fun fact:I created **OneNaut Multi-talented Discord Bot**.
 

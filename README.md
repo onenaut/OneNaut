@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [Summon Bot from Top.gg](https://top.gg/bot/783594136741609533)
 
 ### OneNaut Discord bot is written NodeJs only **WITHOUT** using any 3rd party NPM packages.
-####Its code is 70% less than other bots and mainly reused codes which makes it stable, faster and reliable
+Its code is 70% less than other bots and mainly reused codes which makes it stable, faster and reliable
 Join support server and `Tag Bot (@OneNaut) to begin`.
 
 [Support Server](https://discord.gg/FDA7afBd6w) 

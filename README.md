@@ -25,6 +25,8 @@ Its code is 70% less than other bots and mainly reused codes which makes it stab
 Join support server and Tag Bot to begin.
 
 [Support Server](https://discord.gg/FDA7afBd6w)
+[Summon Bot from Top.gg](https://top.gg/bot/783594136741609533)
+
  ## Default Prefix `[on.]`
 | Command | Description | Aliases | Cooldown | Use |
 | --- | --- | --- | --- | --- | 

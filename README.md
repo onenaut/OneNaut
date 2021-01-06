@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Bot](https://raw.githubusercontent.com/onenaut/OneNaut/main/1.png)
-## **OneNaut** is a ✨ _special_ ✨ github profile.
 ⚡ Fun fact:I created **OneNaut Multi-talented Discord Bot**.
 
 # Discord Bot Made in India.
@@ -26,7 +25,7 @@ Its code is 70% less than other bots and mainly reused codes which makes it stab
 Join support server and Tag Bot to begin.
 
 [Support Server](https://discord.gg/FDA7afBd6w)
-
+ ## Default Prefix `[on.]`
 | Command | Description | Aliases | Cooldown | Use |
 | --- | --- | --- | --- | --- | 
 | help | List all commands | help [command-name] | 0 | Everyone |

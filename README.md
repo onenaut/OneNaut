@@ -27,6 +27,8 @@ Join support server and `Tag Bot (@OneNaut) to begin`.
 
 [Support Server](https://discord.gg/FDA7afBd6w) 
 
+### If you want Command Handler which has handled permissions and read-to-add commands will cost you `15$`
+### Full Bot (Ready-to-host) will cost you `30$` (Bargaining-available) 
  ## Default Prefix `[on.]`
 | Command | Description | Aliases | Cooldown | Use |
 | --- | --- | --- | --- | --- | 

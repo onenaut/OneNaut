@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 [Summon Bot from Top.gg](https://top.gg/bot/783594136741609533)
 
 ### OneNaut Discord bot is written NodeJs only **WITHOUT** using any 3rd party NPM packages.
-Its code is 70% less than other bots and mainly reused codes which makes it stable, faster and reliable
+Its code is 70% less than other bots and mainly recalled codes which makes it stable, faster and reliable
 Join support server and `Tag Bot (@OneNaut) to begin`.
 
 [Support Server](https://discord.gg/FDA7afBd6w) 
 
-### If you want Command Handler which has handled permissions and read-to-add commands will cost you `15$`
+### If you want Command Handler which has handled permissions and ready-to-add commands will cost you `15$`
 ### Full Bot (Ready-to-host) will cost you `30$` (Bargaining-available) 
 ### Database Mongodb
 ## Default Prefix `[on.]`

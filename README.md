@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Bot](https://raw.githubusercontent.com/onenaut/OneNaut/main/1.png)
 ⚡ Fun fact:I created **OneNaut Multi-talented Discord Bot**.
 
-# Discord Bot Made in India.
+# Discord Bot for All Needs. 
 [Summon Bot from Top.gg](https://top.gg/bot/783594136741609533)
 
 ### OneNaut Discord bot is written NodeJs only **WITHOUT** using any 3rd party NPM packages.
@@ -37,4 +37,5 @@ Join support server and `Tag Bot (@OneNaut) to begin`.
 | setprefix [char] | Change prefix in that guild  | p | 59 | ADMINISTRATOR |
 | anti-ghostping [on/off] | Detects spam pings | agp | 0 | ADMINISTRATOR |
 | anti-invite [on/off] | Deletes invite links except ADMINISTRATOR  | ai | 0 | ADMINISTRATOR |
+| --- | --- | --- | --- | --- | 
 #Have a Nice Day

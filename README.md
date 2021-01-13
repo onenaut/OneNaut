@@ -29,7 +29,9 @@ Join support server and `Tag Bot (@OneNaut) to begin`.
 
 ### If you want Command Handler which has handled permissions and read-to-add commands will cost you `15$`
 ### Full Bot (Ready-to-host) will cost you `30$` (Bargaining-available) 
- ## Default Prefix `[on.]`
+### Database Mongodb
+## Default Prefix `[on.]`
+
 | Command | Description | Aliases | Cooldown | Use |
 | --- | --- | --- | --- | --- | 
 | help | List all commands | help [command-name] | 0 | Everyone |

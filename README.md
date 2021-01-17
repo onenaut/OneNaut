@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### OneNaut Discord bot is written NodeJs only **WITHOUT** using any 3rd party NPM packages.
 Its code is 70% less than other bots and mainly recalled codes which makes it stable, faster and reliable
-Join support server and `on.help to begin`.
+Join support server and `on.help` to begin.
 
 [Support Server](https://discord.gg/FDA7afBd6w) 
 

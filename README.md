@@ -43,4 +43,7 @@ Full Bot (Ready-to-host) will cost you `30$` (Bargaining-available)
 #Have a Nice Day
 
 # Screenshots
-![Not](https://raw.githubusercontent.com/onenaut/OneNaut/main/4.png)
+![Bot](https://raw.githubusercontent.com/onenaut/OneNaut/main/4.png)
+![Bot](https://raw.githubusercontent.com/onenaut/OneNaut/main/3.png)
+![Bot](https://raw.githubusercontent.com/onenaut/OneNaut/main/2.png)
+![BOT](https://raw.githubusercontent.com/onenaut/OneNaut/main/5.png)

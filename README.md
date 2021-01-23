@@ -41,3 +41,6 @@ Full Bot (Ready-to-host) will cost you `30$` (Bargaining-available)
 | anti-invite [on/off] | Deletes invite links except ADMINISTRATOR  | ai | 0 | ADMINISTRATOR |
 | --- | --- | --- | --- | --- | 
 #Have a Nice Day
+
+#Screenshots
+![Not](https://raw.githubusercontent.com/onenaut/OneNaut/main/4.png)

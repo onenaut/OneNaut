@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 Its code is 70% less than other bots and mainly recalled codes which makes it stable, faster and reliable. `Sharding` bot for more than 2000 servers is available too.
 Join support server and `on.help` to begin.
 
-Link to Join my server & to contact.
-[Support Server](https://discord.gg/FDA7afBd6w) 
+Link to Join my server & to contact: [Discord Server](https://discord.gg/FDA7afBd6w) 
 
 ### If you want Command Handler which has handled permissions and ready-to-add commands will cost you `15$`
 Full Bot (Ready-to-host) will cost you `30$` (Bargaining-available) 

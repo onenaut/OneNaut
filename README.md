@@ -28,7 +28,7 @@ Link to Join my server & to contact.
 [Support Server](https://discord.gg/FDA7afBd6w) 
 
 ### If you want Command Handler which has handled permissions and ready-to-add commands will cost you `15$`
-### Full Bot (Ready-to-host) will cost you `30$` (Bargaining-available) 
+Full Bot (Ready-to-host) will cost you `30$` (Bargaining-available) 
 ### Database Mongodb
 ## Default Prefix `[on.]`
 

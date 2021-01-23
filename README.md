@@ -47,3 +47,5 @@ Full Bot (Ready-to-host) will cost you `30$` (Bargaining-available)
 ![Bot](https://raw.githubusercontent.com/onenaut/OneNaut/main/3.png)
 ![Bot](https://raw.githubusercontent.com/onenaut/OneNaut/main/2.png)
 ![BOT](https://raw.githubusercontent.com/onenaut/OneNaut/main/5.png)
+
+### Join my [Discord Server](https://discord.gg/FDA7afBd6w).
